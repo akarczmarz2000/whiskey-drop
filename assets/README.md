@@ -8,3 +8,6 @@ The callout was added to the index page, at the moment this is simple structure 
 
 ##v0.11 - Quote Added
 The Quotes section was added with a few mock reviews, also the classes to style later where added to the style.css.
+
+##v0.12 - Feature Added
+The feature section was added and again the css updated with classes to be styled later.
