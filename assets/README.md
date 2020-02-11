@@ -11,3 +11,10 @@ The Quotes section was added with a few mock reviews, also the classes to style 
 
 ##v0.12 - Feature Added
 The feature section was added and again the css updated with classes to be styled later.
+
+##v0.13 - Visual Update
+Some of the text has been rearranged and sytled for better effect on the reader. 
+Heading changed to uppercase so they are clear and understandable. 
+Change quotes to blockquotes so they look better and called blockquotes from bootstrap.
+Added read more buttons to the features section to link to more about each comment and to lead to more comments.
+Finally added a button under the ential callout for sign up. 
