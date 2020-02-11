@@ -1,1 +1,9 @@
+Name:girl-image-png
+Page:Home
+Use:To go with the first quote
+Download:https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4/tree/master/03-Components/02-core_components-part-2/images
 
+Name:guy-image.png
+Page:Home
+Use:To go with the second quote
+Download:https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4/tree/master/03-Components/02-core_components-part-2/images
