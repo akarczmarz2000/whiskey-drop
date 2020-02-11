@@ -23,3 +23,10 @@ Finally added a button under the ential callout for sign up.
 When the screen is at a medium width the callout will be a 12 row, the quote header will be a 12 row and the feature header will be a 12 row. Then the quotes and features will be 6 rows.
 Then when the screen is at a large width the features will change to a 4 row, this should be the only change between them.
 Also rearranged code so that it was more tidy and clearly organised.
+
+##v0.21 - Adding Navigation
+The Navigation was added to the top of the page, along with a company slogan and a sign in/sign up link. 
+This Navigation goes to a about page and the home page. 
+Also when resoultion gets to a phone size the sign up/sign in will disapear for view on the top bar and join as a link on the Navigation bar.
+Added some spacing to the headers of each other section, leaving the callout how it was.
+Finally we turned the Callout into a jumbotron look and changed the alignment of the text on it and made it so that the price disapears on lower resoultion for better flow.
