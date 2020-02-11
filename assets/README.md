@@ -30,3 +30,6 @@ This Navigation goes to a about page and the home page.
 Also when resoultion gets to a phone size the sign up/sign in will disapear for view on the top bar and join as a link on the Navigation bar.
 Added some spacing to the headers of each other section, leaving the callout how it was.
 Finally we turned the Callout into a jumbotron look and changed the alignment of the text on it and made it so that the price disapears on lower resoultion for better flow.
+
+##v0.22 - Images Added For Quotes
+In this version the images for the quotes had been added so that when in any view higher than mobile you could see two images, one female and one male, incased in circles next to the quotes.
