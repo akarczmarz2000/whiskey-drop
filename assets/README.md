@@ -18,3 +18,8 @@ Heading changed to uppercase so they are clear and understandable.
 Change quotes to blockquotes so they look better and called blockquotes from bootstrap.
 Added read more buttons to the features section to link to more about each comment and to lead to more comments.
 Finally added a button under the ential callout for sign up. 
+
+##v0.2 - Change Grid Design
+When the screen is at a medium width the callout will be a 12 row, the quote header will be a 12 row and the feature header will be a 12 row. Then the quotes and features will be 6 rows.
+Then when the screen is at a large width the features will change to a 4 row, this should be the only change between them.
+Also rearranged code so that it was more tidy and clearly organised.
