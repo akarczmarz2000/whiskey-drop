@@ -40,3 +40,7 @@ There are also some minor changes to things in the html code.
 
 ##v0.24 - Navigation Change
 The view of the Navigation on the mobile has been changed to a drop down menu with some whiskey choices added.
+
+##v0.25 - Sign Up Model
+A model was added to respond to the sign up button on the callout. When this opens it will create a box over the screen which askes for a email, password and a repeat password.
+It will also say that we will never share your email with anyone.
