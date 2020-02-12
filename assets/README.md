@@ -37,3 +37,6 @@ In this version the images for the quotes had been added so that when in any vie
 ##v0.23 - Adding Alert
 In this version a alert has been added which informs the customers of a sale that is currently going on, although this wont show on the mobile as it takes a lot of needed screen space.
 There are also some minor changes to things in the html code.
+
+##v0.24 - Navigation Change
+The view of the Navigation on the mobile has been changed to a drop down menu with some whiskey choices added.
