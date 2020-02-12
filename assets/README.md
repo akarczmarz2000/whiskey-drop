@@ -33,3 +33,7 @@ Finally we turned the Callout into a jumbotron look and changed the alignment of
 
 ##v0.22 - Images Added For Quotes
 In this version the images for the quotes had been added so that when in any view higher than mobile you could see two images, one female and one male, incased in circles next to the quotes.
+
+##v0.23 - Adding Alert
+In this version a alert has been added which informs the customers of a sale that is currently going on, although this wont show on the mobile as it takes a lot of needed screen space.
+There are also some minor changes to things in the html code.
