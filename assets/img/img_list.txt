@@ -7,3 +7,8 @@ Name:guy-image.png
 Page:Home
 Use:To go with the second quote
 Download:https://github.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4/tree/master/03-Components/02-core_components-part-2/images
+
+Name:whiskey-background.jpg
+Page:Home
+Use:This is the background to the callout section at the top of the Page
+Download:https://raw.githubusercontent.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4/master/04-BeyondBootstrap/03-cleaning_up_our_content/images/whiskey-background.jpg

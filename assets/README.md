@@ -44,3 +44,10 @@ The view of the Navigation on the mobile has been changed to a drop down menu wi
 ##v0.25 - Sign Up Model
 A model was added to respond to the sign up button on the callout. When this opens it will create a box over the screen which askes for a email, password and a repeat password.
 It will also say that we will never share your email with anyone.
+
+##v0.3 - Finishing CSS
+There is a lot changed in this one, the html has been moved and changed to work with the new CSS rules that have been applied in the style.css document.
+The main changes is styling the structure so that it all flows better, adding color and fonts so liven up the page and grab the users attention.
+Also correcting the issues with the images not loading from the Img folder.
+Added a background for the callout area.
+Fixed the issue with the navigation not responded how expected, the words will now highlight when selected and the dropdown menu works as intended now.
